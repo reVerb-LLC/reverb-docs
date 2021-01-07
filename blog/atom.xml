@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://github.com/reVerb-LLC/blog</id>
+    <id>https://reVerb-LLC.github.io/blog</id>
     <title>reVerb docs Blog</title>
     <updated>2015-10-25T23:29:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://github.com/reVerb-LLC/blog"/>
+    <link rel="alternate" href="https://reVerb-LLC.github.io/blog"/>
     <subtitle>reVerb docs Blog</subtitle>
-    <icon>https://github.com/reVerb-LLC/img/miniLogo.svg</icon>
+    <icon>https://reVerb-LLC.github.io/img/miniLogo.svg</icon>
 </feed>
