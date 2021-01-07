@@ -7,7 +7,7 @@
     "start": "docusaurus start",
     "build": "docusaurus build",
     "swizzle": "docusaurus swizzle",
-    "deploy": "docusaurus deploy",
+    "deploy": "cross-env GIT_USER=itsmesean docusaurus deploy",
     "serve": "docusaurus serve",
     "clear": "docusaurus clear"
   },
