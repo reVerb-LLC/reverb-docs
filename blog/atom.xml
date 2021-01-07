@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://docs.reverb-vs.com/blog</id>
+    <title>reVerb docs Blog</title>
+    <updated>2015-10-25T23:29:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://docs.reverb-vs.com/blog"/>
+    <subtitle>reVerb docs Blog</subtitle>
+    <icon>https://docs.reverb-vs.com/img/miniLogo.svg</icon>
+</feed>
